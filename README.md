@@ -17,4 +17,4 @@
 
 ![img](download.jpg)
 
-![img](sql.jpg)
+![img](sql.png)
